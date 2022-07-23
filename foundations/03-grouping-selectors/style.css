@@ -1,0 +1,30 @@
+.yes,
+.no {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.yes {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.no {
+    background-color: #ffff00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+***The first element**: a black background and white text
+* **The second element**: a yellow background
+* **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
